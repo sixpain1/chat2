@@ -4,13 +4,13 @@
   },
   "env": {
     "PASS": {
-      "required": true
+      "required": false
     },
     "TM_ISHEROKU": {
-      "required": true
+      "required": false
     },
     "USER": {
-      "required": true
+      "required": false
     },
     "TM_ISHEROKUSTAGING": "yes"
   },
